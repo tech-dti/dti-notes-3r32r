@@ -1,0 +1,16 @@
+# Local Netlify folder
+.netlify
+
+# Dependencies
+node_modules/
+
+# VitePress specific
+.vitepress/dist/
+.vitepress/cache/
+
+# OS specific
+.DS_Store
+
+# Environment variables
+.env
+.env.*
